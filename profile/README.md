@@ -1,6 +1,12 @@
 # Linkor
 
-![Thumbnail](https://github.com/user-attachments/assets/94d1a34a-5c72-4d77-b3dc-2b91e5fe1f9e)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/94d1a34a-5c72-4d77-b3dc-2b91e5fe1f9e"
+    width="600"
+    alt="Linkor Thumbnail"
+  />
+</p>
 
 <br/>
 
